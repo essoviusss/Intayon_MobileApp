@@ -34,8 +34,15 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Container(
-        child: Text("Hello World"),
+      body: Row(
+        children: [
+          Container(
+            child: Text("Hello"),
+          ),
+          Container(
+            child: Text("World"),
+          )
+        ],
       ),
     );
   }
