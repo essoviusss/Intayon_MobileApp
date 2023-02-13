@@ -48,6 +48,12 @@ class _MyHomePageState extends State<MyHomePage> {
           Container(
             child: Text(":)"),
           ),
+          Container(
+            child: Text("aj commit"),
+          ),
+          Container(
+            child: Text("ab commit"),
+          ),
         ],
       ),
     );
