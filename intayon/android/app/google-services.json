@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369730100913",
+    "project_id": "intayon-db",
+    "storage_bucket": "intayon-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369730100913:android:22f88a0259687a10508c90",
+        "android_client_info": {
+          "package_name": "com.example.intayon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369730100913-va0ddifi7fo27dvv47sgdelkaji0kq6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzLE1-OMyG1mOn9UtasHa-cLFY8tG_Mew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369730100913-va0ddifi7fo27dvv47sgdelkaji0kq6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
