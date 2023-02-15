@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>369730100913-ml6jcsu7rq7620l2pmud24ccr38ddhtk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369730100913-ml6jcsu7rq7620l2pmud24ccr38ddhtk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmWvoyG8QNV-Zju8tcAUn32t8BS7O1Qao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369730100913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.intayon</string>
+	<key>PROJECT_ID</key>
+	<string>intayon-db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>intayon-db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369730100913:ios:2ae7b3ab2d3e68d3508c90</string>
+</dict>
+</plist>
